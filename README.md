@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# character_creation_module
+# Character Creation Module
 ## Модуль создания персонажа для RPG игры
 
 # Автор
